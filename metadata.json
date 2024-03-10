@@ -2,7 +2,7 @@
     "name": "BitAlpsCoinTest1",
     "symbol": "BACT1",
     "description": "BitAlpsCoin Test1",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://github.com/JPNx1/BitAlpsCoinV1/blob/78e76107cb7d32ff8eace11d5d5c2817a83da31d/BITALPSCOINT1.jpg",
     "attributes": [
       {
         "trait_type": "Item",
